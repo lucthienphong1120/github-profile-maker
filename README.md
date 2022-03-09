@@ -49,7 +49,7 @@ Got any trophies/medals but oops! how can you show them on your profile? Don't w
 
 <details>
 <summary>
-  NextJS Guide
+  Deploy web
 </summary>
 
 ## Getting Started
