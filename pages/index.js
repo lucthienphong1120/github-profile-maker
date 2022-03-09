@@ -14,7 +14,7 @@ export default function Home() {
           name="description"
           content="Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !"
         />
-        <meta name="copyright" content="VishwaGauravIn" />
+        <meta name="copyright" content="LTP" />
 
         <meta property="og:type" content="website" />
         <meta
