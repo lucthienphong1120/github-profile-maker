@@ -11,7 +11,7 @@
 We got everything that you need ! Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
 ### ⚡ Lightening fast Profile Creation
-Create your Profile ReadMe in just few clicks ! On an average, it takes less than one minute to create a perfect Profile ReadMe using GPRM
+Create your Profile ReadMe in just few clicks ! On an average, it takes less than one minute to create a perfect Profile ReadMe using GPM
 
 ### 📊 Flex Your GitHub Stats
 Be Honest, everyone loves to flex their achievements. With tools such as ReadMe Stats, Most Used Languages, Streak Stats you can show your achievements.
@@ -58,8 +58,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
