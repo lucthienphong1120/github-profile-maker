@@ -14,13 +14,12 @@ export default function GitHubAvailability() {
         </p>
         <p className="text-gray-500 md:pr-10 my-6 md:text-lg 2xl:text-xl">
           Yes you heard right, this website is open source and you can find code
-          of this website on GitHub. You can request a feature, contribute to
-          project by adding feedbacks and mentioning bugs if they exist.
-          Licensed under GPL-3.0 ©VishwaGauravIn
+          of this website on GitHub. You can find this repository in my github.
+          Licensed under GPL-2.0 ©lucthienphong1120
         </p>
         <AnchorWithSVG
-          url="https://github.com/VishwaGauravIn/github-profile-readme-maker"
-          title="Visit GitHub"
+          url="https://github.com/lucthienphong1120/github-profile-maker"
+          title="Go to GitHub"
         />
       </div>
     </div>
