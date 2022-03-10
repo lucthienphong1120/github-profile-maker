@@ -9,21 +9,25 @@ export default function SocialLinks() {
           Our Social Links
         </p>
         <p className="text-gray-500 md:pl-10 my-6 md:text-lg 2xl:text-xl md:text-right">
-          We are available on Twitter, LinkedIn, and GitHub. You can connect
-          with us to get notification about any new feature we add, any cool
+          I'm available on Facebook, Youtube, LinkedIn and GitHub. You can connect
+          me to get notification about any new feature we add, any cool
           product we create or get early access of some cool projects !
         </p>
         <div className="flex flex-row flex-wrap justify-center md:items-end">
           <AnchorWithSVG
-            url="https://linkedin.com/in/VishwaGauravIn"
+            url="https://www.facebook.com/profile.php?id=100045406261491"
+            title="Facebook"
+          />
+          <AnchorWithSVG
+            url="https://www.youtube.com/c/CodingReshapeFuture"
+            title="Youtube"
+          />
+          <AnchorWithSVG
+            url="https://www.linkedin.com/in/ltp1120"
             title="LinkedIn"
           />
           <AnchorWithSVG
-            url="https://twitter.com/VishwaGauravIn"
-            title="Twitter"
-          />
-          <AnchorWithSVG
-            url="https://github.com/VishwaGauravIn"
+            url="https://github.com/lucthienphong1120"
             title="GitHub"
           />
         </div>
