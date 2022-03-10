@@ -9,7 +9,7 @@ export default function SocialLinks() {
           Our Social Links
         </p>
         <p className="text-gray-500 md:pl-10 my-6 md:text-lg 2xl:text-xl md:text-right">
-          I&apos m available on Facebook, Youtube, LinkedIn and GitHub. You can connect
+          We&apos;re available on Facebook, Youtube, LinkedIn and GitHub. You can connect
           me to get notification about any new feature we add, any cool
           product we create or get early access of some cool projects !
         </p>
