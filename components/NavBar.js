@@ -13,7 +13,7 @@ export default function NavBar() {
         rel="noopener noreferrer"
       >
         <GITHUB_SVG/>
-        This Project
+        OpenSource
       </a>
     </div>
   );
