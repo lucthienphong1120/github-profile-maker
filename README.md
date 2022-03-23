@@ -6,6 +6,7 @@
 </div>
 <br/>
 
+An easy way to create beautiful and modern github profiles
 
 # Features
 We got everything that you need ! Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
