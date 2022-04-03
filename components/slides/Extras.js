@@ -135,7 +135,7 @@ ${techbadges.join(" ").replaceAll("for-the-badge", badgeStyle)}
               className="m-2 select-none pointer-events-none"
               draggable="false"
               id="trophy"
-              src={`https://github-profile-trophy.vercel.app/?username=${username}&theme=${theme}&no-frame=${border}&no-bg=${background}&margin-w=4`}
+              src={`https://github-trophies.vercel.app/?username=${username}&theme=${theme}&no-frame=${border}&no-bg=${background}&margin-w=4`}
               alt=""
             />
             <CheckBox id="trophychk" title="Add GitHub Trophies" />

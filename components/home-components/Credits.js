@@ -18,8 +18,8 @@ export default function Credits() {
       creditfor: "Random Memer",
     },
     {
-      avatar: "https://avatars.githubusercontent.com/u/6661165?v=4",
-      name: "Ryota Sakamoto",
+      avatar: "	https://avatars.githubusercontent.com/u/90561566?v=4",
+      name: "Luc Thien Phong",
       creditfor: "GitHub Profile Trophies",
     },
     {
